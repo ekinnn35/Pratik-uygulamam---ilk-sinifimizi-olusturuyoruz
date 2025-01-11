@@ -1,0 +1,1 @@
+# Pratik uygulamam - ilk sinifimizi olusturuyoruz
